@@ -1,6 +1,5 @@
 # Howdy! 👋, I'm Shivam
 
----
 
 ## About me:
 Passionate Computer Science Engineer with a strong interest in understanding how things work and improving them through practical, efficient solutions. Enthusiastic about building, problem-solving, and debugging, with a continuous learning mindset and a strong desire to grow in a professional engineering environment. 
