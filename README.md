@@ -1,9 +1,11 @@
-<h1 align="center">Howdy! 👋, I'm Shivam</h1>
+# Howdy! 👋, I'm Shivam
 
-<h2 align="left">About me:</h2>
-<h4 align="center">Passionate Computer Science Engineer with a strong interest in understanding how things work and improving them through practical, efficient solutions. Enthusiastic about building, problem-solving, and debugging, with a continuous learning mindset and a strong desire to grow in a professional engineering environment. 
+---
+
+## About me:
+Passionate Computer Science Engineer with a strong interest in understanding how things work and improving them through practical, efficient solutions. Enthusiastic about building, problem-solving, and debugging, with a continuous learning mindset and a strong desire to grow in a professional engineering environment. 
   
-My personal mission: *Understand, improve, and create products and solutions that make people’s lives easier, more efficient, and more comfortable.*</h4>
+My personal mission: *Understand, improve, and create products and solutions that make people’s lives easier, more efficient, and more comfortable.*
 
 ---
 
@@ -20,5 +22,3 @@ My personal mission: *Understand, improve, and create products and solutions tha
 ## Say hi 👋
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/shivamcse2k20/]
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-shivam&show_icons=true&locale=en" alt="shivam-shivam" /></p>
