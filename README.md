@@ -10,11 +10,11 @@ My personal mission: *Understand, improve, and create products and solutions tha
 
 ## What I believe
 
-- **Ship it** — a working prototype teaches more than a year of planning. Put it in someone's hands and learn.
-- **Developer tools are a craft** — the best ones disappear. You don't admire the hammer, you admire the house.
-- **Build in the open** — open source isn't a distribution model, it's a trust model. Take feedback seriously.
-- **Connect the dots** — the most interesting work happens at the seams between technologies, teams, and ideas.
-- **Stay a builder** — titles change. The instinct to open an editor and make something should never go away.
+- **Build first, refine fast** — real learning begins when something is used in the real world. Ideas become meaningful only after they solve an actual problem.(*Create MVP*)
+- **Great technology feels effortless** — the best tools remove friction so people can focus on creating, thinking, and doing their best work.(*Developer Tools*)
+- **Curiosity drives innovation** — understanding how things work is the first step toward improving them and imagining better possibilities.(*System Design*)
+- **Collaboration creates better products** — strong ideas grow stronger through shared knowledge, feedback, and open conversations.(*Open-Source Contribution*)
+- **Never lose the builder mindset** — no matter the role or responsibility, the habit of experimenting, creating, and improving should always remain.(*Never Stop Building*)
 
 ---
 
