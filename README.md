@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 
 <h2 align="left">About me:</h2>
-<h4 align="center">A passionate Full-Stack developer. I am a undergrad student, currently pursing Computer Science and Engineering at BIT Mesra Ranchi. My skills include - Programming, Leadership and Management. I also learned about C++, HTML, CSS, JavaScript, etc. Furthermore I took part in #Googlehashcode2021 -(1137th) world ranking, #Googlejam2021-(90 points)(3996th)rank</h4>
+<h4 align="center">Passionate Computer Science Engineer from BIT Mesra, Ranchi, with a strong interest in building, problem-solving, and debugging. Skilled in programming, leadership, and team management, with hands-on experience in C++, HTML, CSS, and JavaScript. Participated in competitive programming events including Google Hash Code 2021 (World Rank 1137) and Google Code Jam 2021 (90 points, Rank 3996). Eager to contribute technical expertise, learn continuously, and grow in a professional engineering environment.</h4>
 
 <h2 align="left">Projects:</h2>
 
