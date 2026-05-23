@@ -19,6 +19,6 @@ My personal mission: *Understand, improve, and create products and solutions tha
 
 ## Say hi 👋
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/bradygaster/](https://www.linkedin.com/in/shivamcse2k20/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/shivamcse2k20/]
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-shivam&show_icons=true&locale=en" alt="shivam-shivam" /></p>
